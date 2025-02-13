@@ -22,7 +22,7 @@
 2a12:bec4:12a3:15::/56,US,US-CA,Calabasas,91302
 2a12:bec4:12a3:16::/56,US,US-CA,Malibu,
 2a12:bec4:12a3:17::/56,US,US-CA,Santa Monica,
-2a12:bec4:12a3:18::/56/64,US,US-CA,Palisades,
+2a12:bec4:12a3:18::/56,US,US-CA,Palisades,
 2a12:bec4:12a3:19::/56,US,US-CA,San Jose,
 2a12:bec4:12a3:1a::/56,US,US-NY,New York City,
 2a12:bec4:12a3:1b::/56,US,US-OH,Columbus,
@@ -62,7 +62,7 @@
 2a12:bec4:12a3:3d::/56,GB,GB-ENG,Grove,
 2a12:bec4:12a3:3e::/56,GB,GB-ENG,Hook,
 2a12:bec4:12a3:3f::/56,GB,GB-ENG,,
-2a12:bec4:12a3:40::/56/64,BG,,Sofia,
+2a12:bec4:12a3:40::/56,BG,,Sofia,
 2a12:bec4:12a3:41::/56,NL,,Axel,
 2a12:bec4:12a3:42::/56,NL,,Amsterdam,
 2a12:bec4:12a3:43::/56,CA,,Toronto,
