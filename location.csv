@@ -1,255 +1,710 @@
-2a12:bec4:12a3:00::/56,US,US-CA,Hollywood Hills West,90046
-2a12:bec4:12a3:01::/56,US,US-CA,Hollywood Hills West,90046
-2a12:bec4:12a3:02::/56,US,US-CA,Hollywood Hills West,90046
-2a12:bec4:12a3:03::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:04::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:05::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:06::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:07::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:08::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:09::/56,US,US-CA,Los Angeles,
-2a12:bec4:12a3:0a::/56,US,US-CA,Los Angeles County,
-2a12:bec4:12a3:0b::/56,US,US-CA,East Los Angeles,
-2a12:bec4:12a3:0c::/56,US,US-CA,South Los Angeles,
-2a12:bec4:12a3:0d::/56,US,US-CA,West Los Angeles,
-2a12:bec4:12a3:0e::/56,US,US-CA,North Los Angeles,
-2a12:bec4:12a3:0f::/56,US,US-CA,Central Los Angeles,
-2a12:bec4:12a3:10::/56,US,US-CA,Downtown Los Angeles,90020
-2a12:bec4:12a3:11::/56,US,US-CA,Hollywood,90046
-2a12:bec4:12a3:12::/56,US,US-CA,West Hollywood,90046
-2a12:bec4:12a3:13::/56,US,US-CA,Beverly Hills,90210
-2a12:bec4:12a3:14::/56,US,US-CA,Hidden Hills,91302
-2a12:bec4:12a3:15::/56,US,US-CA,Calabasas,91302
-2a12:bec4:12a3:16::/56,US,US-CA,Malibu,
-2a12:bec4:12a3:17::/56,US,US-CA,Santa Monica,
-2a12:bec4:12a3:18::/56,US,US-CA,Palisades,
-2a12:bec4:12a3:19::/56,US,US-CA,San Jose,
-2a12:bec4:12a3:1a::/56,US,US-NY,New York City,
-2a12:bec4:12a3:1b::/56,US,US-OH,Columbus,
-2a12:bec4:12a3:1c::/56,US,US-CA,San Francisco,
-2a12:bec4:12a3:1d::/56,US,US-FL,Jacksonville,
-2a12:bec4:12a3:1e::/56,US,US-IL,Chicago,
-2a12:bec4:12a3:1f::/56,US,US-WA,Arlington,
-2a12:bec4:12a3:20::/56,US,US-CA,San Diego,
-2a12:bec4:12a3:21::/56,US,US-FL,Miami,
-2a12:bec4:12a3:22::/56,US,US-CO,Denver,
-2a12:bec4:12a3:23::/56,US,US-GA,Atlanta,
-2a12:bec4:12a3:24::/56,US,US-TX,Austin,
-2a12:bec4:12a3:25::/56,US,US-CO,Denver,
-2a12:bec4:12a3:26::/56,US,US-TN,Memphis,
-2a12:bec4:12a3:27::/56,US,US-NV,Las Vegas,
-2a12:bec4:12a3:28::/56,US,US-NV,Nellis Airforce Base,
-2a12:bec4:12a3:29::/56,US,US-NV,Area 51,
-2a12:bec4:12a3:2a::/56,US,US-KY,Louisville,
-2a12:bec4:12a3:2b::/56,CA,CA-BC,Kamloops,
-2a12:bec4:12a3:2c::/56,US,US-NY,Glens Falls,
-2a12:bec4:12a3:2d::/56,US,US-WA,Moses Lake,
-2a12:bec4:12a3:2e::/56,US,US-TX,Kirbyville,
-2a12:bec4:12a3:2f::/56,US,US-TX,Tyler,
-2a12:bec4:12a3:30::/56,GB,GB-ENG,London,
-2a12:bec4:12a3:31::/56,GB,GB-ENG,Knightsbridge,SW1X 7LJ
-2a12:bec4:12a3:32::/56,GB,GB-ENG,Kensington,
-2a12:bec4:12a3:33::/56,GB,GB-ENG,Manchester,
-2a12:bec4:12a3:34::/56,GB,GB-ENG,Wallingford,
-2a12:bec4:12a3:35::/56,GB,GB-ENG,Birmingham,
-2a12:bec4:12a3:36::/56,GB,GB-ENG,Cornwall,
-2a12:bec4:12a3:37::/56,GB,GB-ENG,St Ives,
-2a12:bec4:12a3:38::/56,GB,GB-SRY,Weybridge,KT13 0NL
-2a12:bec4:12a3:39::/56,GB,GB-ENG,Hull,
-2a12:bec4:12a3:3a::/56,GB,GB-ENG,Hessle,
-2a12:bec4:12a3:3b::/56,GB,GB-ENG,Kirk Ella,
-2a12:bec4:12a3:3c::/56,GB,GB-ENG,Princes Risborough,
-2a12:bec4:12a3:3d::/56,GB,GB-ENG,Grove,
-2a12:bec4:12a3:3e::/56,GB,GB-ENG,Hook,
-2a12:bec4:12a3:3f::/56,GB,GB-ENG,,
-2a12:bec4:12a3:40::/56,BG,,Sofia,
-2a12:bec4:12a3:41::/56,NL,,Axel,
-2a12:bec4:12a3:42::/56,NL,,Amsterdam,
-2a12:bec4:12a3:43::/56,CA,,Toronto,
-2a12:bec4:12a3:44::/56,DE,,Frankfurt am Main,
-2a12:bec4:12a3:45::/56,CH,,Zurich,
-2a12:bec4:12a3:46::/56,AT,,Vienna,
-2a12:bec4:12a3:47::/56,ES,,Madrid,
-2a12:bec4:12a3:48::/56,ZA,,Cape Town,
-2a12:bec4:12a3:49::/56,SG,,Singapore,
-2a12:bec4:12a3:4a::/56,IN,,Mumbai,
-2a12:bec4:12a3:4b::/56,BE,,Brussels,
-2a12:bec4:12a3:4c::/56,AU,,Canberra,
-2a12:bec4:12a3:4d::/56,AU,AU-NSW,Sydney,
-2a12:bec4:12a3:4e::/56,TW,,Taipei,
-2a12:bec4:12a3:4f::/56,NO,,Oslo,
-2a12:bec4:12a3:50::/56,JP,,Tokyo,
-2a12:bec4:12a3:51::/56,JP,,Yokohama,
-2a12:bec4:12a3:52::/56,JP,,Kyoto,
-2a12:bec4:12a3:53::/56,JP,,Osaka,
-2a12:bec4:12a3:54::/56,JP,,,
-2a12:bec4:12a3:55::/56,JP,,Higashihiroshima,
-2a12:bec4:12a3:56::/56,FR,,Paris,
-2a12:bec4:12a3:57::/56,FR,,Marseille,
-2a12:bec4:12a3:58::/56,FR,,Gravelines,
-2a12:bec4:12a3:59::/56,IT,,Milan,
-2a12:bec4:12a3:5a::/56,SE,,Stockholm,
-2a12:bec4:12a3:5b::/56,BR,,Rio de Janeiro,
-2a12:bec4:12a3:5c::/56,DK,,Copenhagen,
-2a12:bec4:12a3:5d::/56,KY,,George Town,
-2a12:bec4:12a3:5e::/56,BS,,Nassau,
-2a12:bec4:12a3:5f::/56,TC,,,
-2a12:bec4:12a3:60::/56,BM,,,
-2a12:bec4:12a3:61::/56,VI,,Charlotte Amalie,
-2a12:bec4:12a3:62::/56,VG,,Road Town,
-2a12:bec4:12a3:63::/56,LC,,Castries,
-2a12:bec4:12a3:64::/56,HM,,,
-2a12:bec4:12a3:65::/56,AQ,,,
-2a12:bec4:12a3:66::/56,ES,ES-AN,Malaga,
-2a12:bec4:12a3:67::/56,LU,,Luxembourg,
-2a12:bec4:12a3:68::/56,RO,,Bucharest,
-2a12:bec4:12a3:69::/56,PR,,San Juan,
-2a12:bec4:12a3:6a::/56,IS,,Reykjavik,
-2a12:bec4:12a3:6b::/56,GL,,Nuuk,
-2a12:bec4:12a3:6c::/56,MV,,Male,
-2a12:bec4:12a3:6d::/56,FJ,,Suva,
-2a12:bec4:12a3:6e::/56,CK,,Avarua,
-2a12:bec4:12a3:6f::/56,CC,,West Island,
-2a12:bec4:12a3:70::/56,CX,,Flying Fish Cove,
-2a12:bec4:12a3:71::/56,BV,,,
-2a12:bec4:12a3:72::/56,NZ,,Westport,
-2a12:bec4:12a3:73::/56,FI,,Helsinki,
-2a12:bec4:12a3:74::/56,GI,,,
-2a12:bec4:12a3:75::/56,MD,,,
-2a12:bec4:12a3:76::/56,AR,,Resistencia,
-2a12:bec4:12a3:77::/56,AF,AF-BDS,Badakhshan,
-2a12:bec4:12a3:78::/56,VN,,Ho Chi Minh City,
-2a12:bec4:12a3:79::/56,UM,,Wake Island,
-2a12:bec4:12a3:7a::/56,UM,,Navassa Island,
-2a12:bec4:12a3:7b::/56,KM,,Moroni,
-2a12:bec4:12a3:7c::/56,CY,,Limassol,
-2a12:bec4:12a3:7d::/56,EG,,Luxor,
-2a12:bec4:12a3:7e::/56,IQ,,Karbala,
-2a12:bec4:12a3:7f::/56,IR,,Arak,
-2a12:bec4:12a3:80::/56,RU,RU-MOW,Moscow,
-2a12:bec4:12a3:81::/56,RU,RU-SPE,Saint Petersburg,
-2a12:bec4:12a3:82::/56,RU,,Kaliningrad,
-2a12:bec4:12a3:83::/56,RU,RU-NVS,Novosibirsk,
-2a12:bec4:12a3:84::/56,RU,,Omsk,
-2a12:bec4:12a3:85::/56,RU,RU-TA,Kazan,
-2a12:bec4:12a3:86::/56,RU,,Norilsk,
-2a12:bec4:12a3:87::/56,RU,RU-BA,Ufa,
-2a12:bec4:12a3:88::/56,RU,,Chita,
-2a12:bec4:12a3:89::/56,RU,,Yuzhno Sakhalinsk,
-2a12:bec4:12a3:8a::/56,RU,,Irkutsk,
-2a12:bec4:12a3:8b::/56,RU,,Vladivostok,
-2a12:bec4:12a3:8c::/56,RU,,Ekaterinburg,
-2a12:bec4:12a3:8d::/56,RU,,Samara,
-2a12:bec4:12a3:8e::/56,RU,,Petropavlovsk Kamchatski,
-2a12:bec4:12a3:8f::/56,RU,RU-YAR,Volga,
-2a12:bec4:12a3:90::/56,KR,,Seoul,
-2a12:bec4:12a3:91::/56,KR,,Busan,
-2a12:bec4:12a3:92::/56,KR,,Incheon,
-2a12:bec4:12a3:93::/56,KR,,Daegu,
-2a12:bec4:12a3:94::/56,KR,,Daejeon,
-2a12:bec4:12a3:95::/56,KR,,Gwangju,
-2a12:bec4:12a3:96::/56,CN,,Shanghai,
-2a12:bec4:12a3:97::/56,CN,,Beijing,
-2a12:bec4:12a3:98::/56,CN,,Guangzhou,
-2a12:bec4:12a3:99::/56,CN,,Shenzhen,
-2a12:bec4:12a3:9a::/56,AE,,Dubai,
-2a12:bec4:12a3:9b::/56,KN,,Basseterre,
-2a12:bec4:12a3:9d::/56,PT,,Lisbon,
-2a12:bec4:12a3:9e::/56,PL,,Warsaw,
-2a12:bec4:12a3:9f::/56,PS,,East Jerusalem,
-2a12:bec4:12a3:a0::/56,ID,,Jakarta,
-2a12:bec4:12a3:a1::/56,ML,,Bamako,
-2a12:bec4:12a3:a2::/56,MT,,Valletta,
-2a12:bec4:12a3:a3::/56,MH,,Majuro,
-2a12:bec4:12a3:a4::/56,NF,,Kingston,
-2a12:bec4:12a3:a5::/56,VA,,,
-2a12:bec4:12a3:a6::/56,TF,,Le Gabode,
-2a12:bec4:12a3:a7::/56,PF,,Bora Bora,
-2a12:bec4:12a3:a8::/56,PF,,Papeete,
-2a12:bec4:12a3:a9::/56,GF,,Cayenne,
-2a12:bec4:12a3:aa::/56,CL,,Santiago,
-2a12:bec4:12a3:ab::/56,CV,,Praia,
-2a12:bec4:12a3:ac::/56,UA,,Kyiv,
-2a12:bec4:12a3:ad::/56,HU,,Budapest,
-2a12:bec4:12a3:ae::/56,VI,,Frederiksted,
-2a12:bec4:12a3:af::/56,VI,,Cruz Bay,
-2a12:bec4:12a3:b0::/56,RU,,Zlatoust,
-2a12:bec4:12a3:b1::/56,RU,,Armavir,
-2a12:bec4:12a3:b2::/56,RU,,Khasavyurt,
-2a12:bec4:12a3:b3::/56,RU,,Kislovodsk,
-2a12:bec4:12a3:b4::/56,RU,,Nevinnomyssk,
-2a12:bec4:12a3:b5::/56,RU,,Novocheboksarsk,
-2a12:bec4:12a3:b6::/56,RU,,Derbent,
-2a12:bec4:12a3:b7::/56,RU,,Bodaybo,
-2a12:bec4:12a3:b8::/56,RU,,Bogorodsk,
-2a12:bec4:12a3:b9::/56,RU,,Mozhaysk,
-2a12:bec4:12a3:ba::/56,RU,,Buguruslan,
-2a12:bec4:12a3:bb::/56,RU,,Birsk,
-2a12:bec4:12a3:bc::/56,RU,,Kirovsk,
-2a12:bec4:12a3:bd::/56,RU,,Krasnouralsk,
-2a12:bec4:12a3:be::/56,RU,,Yuryev-Polsky,
-2a12:bec4:12a3:bf::/56,RU,,Svetlograd,
-2a12:bec4:12a3:c0::/56,RU,,Ozyorsk,
-2a12:bec4:12a3:c1::/56,RU,,Zelenogorsk,
-2a12:bec4:12a3:c2::/56,RU,,Krasnouralsk,
-2a12:bec4:12a3:c3::/56,RU,,Volzhsk,
-2a12:bec4:12a3:c4::/56,RU,,Divnogorsk,
-2a12:bec4:12a3:c5::/56,RU,,Kaliningrad,
-2a12:bec4:12a3:c6::/56,RU,,Naberezhnye Chelny,
-2a12:bec4:12a3:c7::/56,RU,,Kirov,
-2a12:bec4:12a3:c8::/56,RU,,Tolyatti,
-2a12:bec4:12a3:c9::/56,RU,,Krasnodar,
-2a12:bec4:12a3:ca::/56,GB,ENG,Brent Pelham,
-2a12:bec4:12a3:cb::/56,GB,ENG,St Albans,
-2a12:bec4:12a3:cc::/56,GB,ENG,Alton,
-2a12:bec4:12a3:cd::/56,GB,ENG,Leeds,
-2a12:bec4:12a3:ce::/56,GB,ENG,Sheffield,
-2a12:bec4:12a3:cf::/56,GB,ENG,Denmead,
-2a12:bec4:12a3:d0::/56,GB,ENG,Burbage,
-2a12:bec4:12a3:d1::/56,GB,ENG,Cardiff,
-2a12:bec4:12a3:d2::/56,GB,ENG,Bristol,
-2a12:bec4:12a3:d3::/56,GB,ENG,Liverpool,
-2a12:bec4:12a3:d4::/56,GB,NIR,Belfast,
-2a12:bec4:12a3:d5::/56,GB,SCT,Glasgow,
-2a12:bec4:12a3:d6::/56,GB,SCT,Edinburgh,
-2a12:bec4:12a3:d7::/56,GB,ENG,Coventry,
-2a12:bec4:12a3:d8::/56,GB,ENG,Coventry,
-2a12:bec4:12a3:d9::/56,GB,ENG,Wigan,
-2a12:bec4:12a3:da::/56,GB,ENG,Wolverhampton,
-2a12:bec4:12a3:db::/56,GB,ENG,Sutton Coldfield,
-2a12:bec4:12a3:dc::/56,GB,ENG,Grimsby,
-2a12:bec4:12a3:dd::/56,GB,ENG,Letchworth,
-2a12:bec4:12a3:de::/56,GB,ENG,Bexhill,
-2a12:bec4:12a3:df::/56,GB,ENG,Bampton,
-2a12:bec4:12a3:e0::/56,US,US-NV,North Las Vegas,
-2a12:bec4:12a3:e1::/56,US,US-UT,West Valley City,
-2a12:bec4:12a3:e2::/56,US,US-WI,Madison,
-2a12:bec4:12a3:e3::/56,US,US-WY,Rock Springs,
-2a12:bec4:12a3:e4::/56,US,US-NC,Durham,
-2a12:bec4:12a3:e5::/56,US,US-MO,Independence,
-2a12:bec4:12a3:e6::/56,US,US-ME,Bangor,
-2a12:bec4:12a3:e7::/56,US,US-MS,Gulfport,
-2a12:bec4:12a3:e8::/56,US,US-HI,Honolulu,
-2a12:bec4:12a3:e9::/56,US,US-AR,Jonesboro,
-2a12:bec4:12a3:ea::/56,US,US-AZ,Glendale,
-2a12:bec4:12a3:eb::/56,US,US-AL,Tuscaloosa,
-2a12:bec4:12a3:ec::/56,US,US-CT,Hartford,
-2a12:bec4:12a3:ed::/56,US,US-CA,Sacramento,
-2a12:bec4:12a3:ee::/56,US,US-AK,Anchorage,
-2a12:bec4:12a3:ef::/56,US,US-MO,Kansas City,
-2a12:bec4:12a3:f0::/56,JP,,Onomichi,
-2a12:bec4:12a3:f1::/56,JP,,Komatsushima,
-2a12:bec4:12a3:f2::/56,JP,,Kitakyushu,
-2a12:bec4:12a3:f3::/56,JP,,Hiroshima,
-2a12:bec4:12a3:f4::/56,JP,,Iizuka,
-2a12:bec4:12a3:f5::/56,JP,,Yanagawa,
-2a12:bec4:12a3:f6::/56,JP,,Akashi,
-2a12:bec4:12a3:f7::/56,JP,,Amagasaki,
-2a12:bec4:12a3:f8::/56,JP,,Ukiha,
-2a12:bec4:12a3:f9::/56,JP,,Higashihiroshima,
-2a12:bec4:12a3:fa::/56,US,US-AK,Chicken,
-2a12:bec4:12a3:fb::/56,US,US-CA,Weed,
-2a12:bec4:12a3:fc::/56,GB,GB-WLS,Llanfairpwllgwyngyll,
-2a12:bec4:12a3:fd::/56,US,US-OK,Hooker,
-2a12:bec4:12a3:fe::/56,US,US-SD,Gayville,
-2a12:bec4:12a3:ff::/56,US,US-MI,Gaylord,
+2a12:bec4:12a3::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:10::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:20::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:30::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:40::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:50::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:60::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:70::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:80::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:90::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:a0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:b0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:c0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:d0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:e0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:f0::/60,US,US-CA,Hollywood Hills West,90046
+2a12:bec4:12a3:100::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:110::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:120::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:130::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:140::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:150::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:160::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:170::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:180::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:190::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1a0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1b0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1c0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1d0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1e0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:1f0::/60,US,US-CA,Los Angeles,
+2a12:bec4:12a3:200::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:210::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:220::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:230::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:240::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:250::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:260::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:270::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:280::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:290::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2a0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2b0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2c0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2d0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2e0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:2f0::/60,US,US-CA,Los Angeles County,
+2a12:bec4:12a3:300::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:310::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:320::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:330::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:340::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:350::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:360::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:370::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:380::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:390::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3a0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3b0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3c0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3d0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3e0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:3f0::/60,US,US-CA,East Los Angeles,
+2a12:bec4:12a3:400::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:410::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:420::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:430::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:440::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:450::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:460::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:470::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:480::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:490::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4a0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4b0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4c0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4d0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4e0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:4f0::/60,US,US-CA,South Los Angeles,
+2a12:bec4:12a3:500::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:510::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:520::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:530::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:540::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:550::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:560::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:570::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:580::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:590::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5a0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5b0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5c0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5d0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5e0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:5f0::/60,US,US-CA,West Los Angeles,
+2a12:bec4:12a3:600::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:610::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:620::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:630::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:640::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:650::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:660::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:670::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:680::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:690::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6a0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6b0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6c0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6d0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6e0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:6f0::/60,US,US-CA,North Los Angeles,
+2a12:bec4:12a3:700::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:710::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:720::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:730::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:740::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:750::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:760::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:770::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:780::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:790::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7a0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7b0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7c0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7d0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7e0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:7f0::/60,US,US-CA,Central Los Angeles,
+2a12:bec4:12a3:800::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:810::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:820::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:830::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:840::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:850::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:860::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:870::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:880::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:890::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8a0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8b0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8c0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8d0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8e0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:8f0::/60,US-CA,Downtown Los Angeles,90020
+2a12:bec4:12a3:900::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:910::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:920::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:930::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:940::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:950::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:960::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:970::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:980::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:990::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9a0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9b0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9c0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9d0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9e0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:9f0::/60,US,US-CA,Hollywood,90046
+2a12:bec4:12a3:a00::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a10::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a20::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a30::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a40::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a50::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a60::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a70::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a80::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:a90::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:aa0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:ab0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:ac0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:ad0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:ae0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:af0::/60,US,US-CA,West Hollywood,90046
+2a12:bec4:12a3:b00::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b10::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b20::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b30::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b40::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b50::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b60::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b70::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b80::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:b90::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:ba0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:bb0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:bc0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:bd0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:be0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:bf0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c00::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c10::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c20::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c30::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c40::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c50::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c60::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c70::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c80::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:c90::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:ca0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:cb0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:cc0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:cd0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:ce0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:cf0::/60,US,US-CA,Beverly Hills,90210
+2a12:bec4:12a3:d00::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d10::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d20::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d30::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d40::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d50::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d60::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d70::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d80::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:d90::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:da0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:db0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:dc0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:dd0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:de0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:df0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e00::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e10::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e20::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e30::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e40::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e50::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e60::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e70::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e80::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:e90::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:ea0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:eb0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:ec0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:ed0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:ee0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:ef0::/60,US-CA,Hidden Hills,91302
+2a12:bec4:12a3:f00::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f10::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f20::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f30::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f40::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f50::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f60::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f70::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f80::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:f90::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:fa0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:fb0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:fc0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:fd0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:fe0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:ff0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1000::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1010::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1020::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1030::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1040::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1050::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1060::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1070::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1080::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1090::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10a0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10b0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10c0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10d0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10e0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:10f0::/60,US,US-CA,Calabasas,91302
+2a12:bec4:12a3:1100::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1110::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1120::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1130::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1140::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1150::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1160::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1170::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1180::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1190::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11a0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11b0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11c0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11d0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11e0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:11f0::/60,US,US-CA,Malibu,
+2a12:bec4:12a3:1200::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1210::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1220::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1230::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1240::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1250::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1260::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1270::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1280::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1290::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12a0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12b0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12c0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12d0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12e0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:12f0::/60,US,US-CA,Santa Monica,
+2a12:bec4:12a3:1300::/60,US,US-CA,Palisades,
+2a12:bec4:12a3:1310::/60,US,US-CA,Palisades,
+2a12:bec4:12a3:1320::/60,US,US-CA,Palisades,
+2a12:bec4:12a3:1330::/60,US,US-CA,San Jose,
+2a12:bec4:12a3:1340::/606,US,US-OH,Columbus,
+2a12:bec4:12a3:1350::/60,US,US-CA,San Francisco,
+2a12:bec4:12a3:1360::/60,US,US-FL,Jacksonville,
+2a12:bec4:12a3:1370::/60,US,US-IL,Chicago,
+2a12:bec4:12a3:1380::/60,US,US-NY,New York City,
+2a12:bec4:12a3:1390::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13a0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13b0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13c0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13d0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13e0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:13f0::/60,US,US-NY,New York City,
+2a12:bec4:12a3:1400::/60,US,US-WA,Arlington,
+2a12:bec4:12a3:1410::/60,US,US-CA,San Diego,
+2a12:bec4:12a3:1420::/60,US,US-FL,Miami,
+2a12:bec4:12a3:1430::/60,US,US-CO,Denver,
+2a12:bec4:12a3:1440::/60,US,US-GA,Atlanta,
+2a12:bec4:12a3:1450::/60,US,US-TX,Austin,
+2a12:bec4:12a3:1460::/60,US,US-CO,Denver,
+2a12:bec4:12a3:1470::/60,US,US-TN,Memphis,
+2a12:bec4:12a3:1480::/60,US,US-NV,Las Vegas,
+2a12:bec4:12a3:1490::/60,US,US-NV,Las Vegas,
+2a12:bec4:12a3:14a0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:14b0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:14c0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:14d0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:14e0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:14f0::/60,US,US-NV,Nellis Airforce Base,
+2a12:bec4:12a3:1500::/60,US,US-NV,Area 51,
+2a12:bec4:12a3:1510::/60,US,US-NV,Area 51,
+2a12:bec4:12a3:1520::/60,CA,CA-BC,Kamloops,
+2a12:bec4:12a3:1530::/60,US,US-KY,Louisville,
+2a12:bec4:12a3:1540::/60,US,US-NY,Glens Falls,
+2a12:bec4:12a3:1550::/60,US,US-WA,Moses Lake,
+2a12:bec4:12a3:1560::/60,US,US-TX,Kirbyville,
+2a12:bec4:12a3:1570::/60,US,US-TX,Tyler,
+2a12:bec4:12a3:1580::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1590::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15a0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15b0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15c0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15d0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15e0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:15f0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1600::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1610::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1620::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1630::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1640::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1650::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1660::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1670::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1680::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1690::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16a0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16b0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16c0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16d0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16e0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:16f0::/60,GB,GB-ENG,London,
+2a12:bec4:12a3:1700::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1710::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1720::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1730::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1740::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1750::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1760::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1770::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1780::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1790::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17a0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17b0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17c0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17d0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17e0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:17f0::/60,GB,GB-ENG,Knightsbridge,SW1X 7LJ
+2a12:bec4:12a3:1800::/60,GB,GB-ENG,Kensington,
+2a12:bec4:12a3:1810::/60,GB,GB-ENG,Kensington,
+2a12:bec4:12a3:1820::/60,GB,GB-ENG,Kensington,
+2a12:bec4:12a3:1830::/60,GB,GB-ENG,Kensington,
+2a12:bec4:12a3:1840::/60,GB,GB-ENG,Manchester,
+2a12:bec4:12a3:1850::/60,GB,GB-ENG,Manchester,
+2a12:bec4:12a3:1860::/60,GB,GB-ENG,Manchester,
+2a12:bec4:12a3:1870::/60,GB,GB-ENG,Manchester,
+2a12:bec4:12a3:1880::/60,GB,GB-ENG,Birmingham,
+2a12:bec4:12a3:1890::/60,GB,GB-ENG,Birmingham,
+2a12:bec4:12a3:18a0::/60,GB,GB-ENG,Birmingham,
+2a12:bec4:12a3:18b0::/60,GB,GB-ENG,Birmingham,
+2a12:bec4:12a3:18c0::/60,GB,GB-ENG,Wallingford,
+2a12:bec4:12a3:18d0::/60,GB,GB-ENG,Cornwall,
+2a12:bec4:12a3:18e0::/60,GB,GB-ENG,St Ives,
+2a12:bec4:12a3:18f0::/60,GB,GB-ENG,Princes Risborough,
+2a12:bec4:12a3:1900::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1910::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1920::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1930::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1940::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1950::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1960::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1970::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1980::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1990::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19a0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19b0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19c0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19d0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19e0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:19f0::/60,GB,GB-SRY,Weybridge,KT13 0NL
+2a12:bec4:12a3:1a00::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a10::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a20::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a30::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a40::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a50::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a60::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a70::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a80::/60,GB,GB-ENG,Hull,
+2a12:bec4:12a3:1a90::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1aa0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1ab0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1ac0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1ad0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1ae0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1af0::/60,GB,GB-ENG,Hessle,
+2a12:bec4:12a3:1b00::/60,GB,GB-ENG,Kirk Ella,
+2a12:bec4:12a3:1b10::/60,GB,GB-ENG,Grove,
+2a12:bec4:12a3:1b20::/60,GB,GB-ENG,Grove,
+2a12:bec4:12a3:1b30::/60,GB,GB-ENG,Hook,
+2a12:bec4:12a3:1b40::/60,GB,GB-ENG,Hook,
+2a12:bec4:12a3:1b50::/60,BG,,Sofia,
+2a12:bec4:12a3:1b60::/60,BE,,Brussels,
+2a12:bec4:12a3:1b70::/60,IN,,Mumbai,
+2a12:bec4:12a3:1b80::/60,SG,,Singapore,
+2a12:bec4:12a3:1b90::/60,ZA,,Cape Town,
+2a12:bec4:12a3:1ba0::/60,ES,,Madrid,
+2a12:bec4:12a3:1bb0::/60,AT,,Vienna,
+2a12:bec4:12a3:1bc0::/60,CH,,Zurich,
+2a12:bec4:12a3:1bd0::/60,DE,,Frankfurt am Main,
+2a12:bec4:12a3:1be0::/60,CA,,Toronto,
+2a12:bec4:12a3:1bf0::/60,NL,,Amsterdam,
+2a12:bec4:12a3:1c00::/60,NL,,Axel,
+2a12:bec4:12a3:1c10::/60,NL,,Axel,
+2a12:bec4:12a3:1c20::/60,NL,,Axel,
+2a12:bec4:12a3:1c30::/60,NL,,Axel,
+2a12:bec4:12a3:1c40::/60,NL,,Axel,
+2a12:bec4:12a3:1c50::/60,NL,,Axel,
+2a12:bec4:12a3:1c60::/60,NL,,Axel,
+2a12:bec4:12a3:1c70::/60,NL,,Axel,
+2a12:bec4:12a3:1c80::/60,NL,,Axel,
+2a12:bec4:12a3:1c90::/60,NL,,Axel,
+2a12:bec4:12a3:1ca0::/60,NL,,Axel,
+2a12:bec4:12a3:1cb0::/60,NL,,Axel,
+2a12:bec4:12a3:1cc0::/60,NL,,Axel,
+2a12:bec4:12a3:1cd0::/60,NL,,Axel,
+2a12:bec4:12a3:1ce0::/60,NL,,Axel,
+2a12:bec4:12a3:1cf0::/60,NL,,Axel,
+2a12:bec4:12a3:1d00::/60,NL,,Axel,
+2a12:bec4:12a3:1d10::/60,NL,,Axel,
+2a12:bec4:12a3:1d20::/60,NL,,Axel,
+2a12:bec4:12a3:1d30::/60,NL,,Axel,
+2a12:bec4:12a3:1d40::/60,NL,,Axel,
+2a12:bec4:12a3:1d50::/60,NL,,Axel,
+2a12:bec4:12a3:1d60::/60,NL,,Axel,
+2a12:bec4:12a3:1d70::/60,NL,,Axel,
+2a12:bec4:12a3:1d80::/60,NL,,Axel,
+2a12:bec4:12a3:1d90::/60,NL,,Axel,
+2a12:bec4:12a3:1da0::/60,NL,,Axel,
+2a12:bec4:12a3:1db0::/60,NL,,Axel,
+2a12:bec4:12a3:1dc0::/60,NL,,Axel,
+2a12:bec4:12a3:1dd0::/60,NL,,Axel,
+2a12:bec4:12a3:1de0::/60,NL,,Axel,
+2a12:bec4:12a3:1df0::/60,NL,,Axel,
+2a12:bec4:12a3:1e00::/60,AU,,Canberra,
+2a12:bec4:12a3:1e10::/60,AU,AU-NSW,Sydney,
+2a12:bec4:12a3:1e20::/60,AU,AU-NSW,Sydney,
+2a12:bec4:12a3:1e30::/60,AU,AU-NSW,Sydney,
+2a12:bec4:12a3:1e40::/60,AU,AU-NSW,Sydney,
+2a12:bec4:12a3:1e50::/60,AU,AU-NSW,Sydney,
+2a12:bec4:12a3:1e60::/60,TW,,Taipei,
+2a12:bec4:12a3:1e70::/60,NO,,Oslo,
+2a12:bec4:12a3:1e80::/60,JP,,Tokyo,
+2a12:bec4:12a3:1e90::/60,JP,,Tokyo,
+2a12:bec4:12a3:1ea0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1eb0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1ec0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1ed0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1ee0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1ef0::/60,JP,,Tokyo,
+2a12:bec4:12a3:1f00::/60,JP,,Yokohama,
+2a12:bec4:12a3:1f10::/606,JP,,Kyoto,
+2a12:bec4:12a3:1f20::/60,JP,,Osaka,
+2a12:bec4:12a3:1f30::/60,JP,,Higashihiroshima,
+2a12:bec4:12a3:1f40::/60,FR,,Paris,
+2a12:bec4:12a3:1f50::/60,FR,,Marseille,
+2a12:bec4:12a3:1f60::/60,FR,,Gravelines,
+2a12:bec4:12a3:1f70::/60,IT,,Milan,
+2a12:bec4:12a3:1f80::/60,SE,,Stockholm,
+2a12:bec4:12a3:1f90::/60,BR,,Rio de Janeiro,
+2a12:bec4:12a3:1fa0::/60,DK,,Copenhagen,
+2a12:bec4:12a3:1fb0::/60,KY,,George Town,
+2a12:bec4:12a3:1fc0::/60,BS,,Nassau,
+2a12:bec4:12a3:1fd0::/60,TC,,,
+2a12:bec4:12a3:1fe0::/60,BM,,,
+2a12:bec4:12a3:1ff0::/60,VG,,Road Town,
+2a12:bec4:12a3:2000::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2010::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2020::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2030::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2040::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2050::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2060::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2070::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2080::/60,VI,,Charlotte Amalie,
+2a12:bec4:12a3:2090::/60,LC,,Castries,
+2a12:bec4:12a3:20a0::/60,HM,,,
+2a12:bec4:12a3:20b0::/60,AQ,,,
+2a12:bec4:12a3:20c0::/60,ES,ES-AN,Malaga,
+2a12:bec4:12a3:20d0::/60,LU,,Luxembourg,
+2a12:bec4:12a3:20e0::/60,RO,,Bucharest,
+2a12:bec4:12a3:20f0::/60,PR,,San Juan,
+2a12:bec4:12a3:2100::/60,GL,,Nuuk,
+2a12:bec4:12a3:2110::/60,IS,,Reykjavik,
+2a12:bec4:12a3:2120::/60,MV,,Male,
+2a12:bec4:12a3:2130::/60,FJ,,Suva,
+2a12:bec4:12a3:2140::/60,CK,,Avarua,
+2a12:bec4:12a3:2150::/60,CC,,West Island,
+2a12:bec4:12a3:2160::/60,CX,,Flying Fish Cove,
+2a12:bec4:12a3:2170::/60,BV,,,
+2a12:bec4:12a3:2180::/60,NZ,,Westport,
+2a12:bec4:12a3:2190::/60,FI,,Helsinki,
+2a12:bec4:12a3:21a0::/60,GI,,,
+2a12:bec4:12a3:21b0::/60,MD,,,
+2a12:bec4:12a3:21c0::/60,AR,,Resistencia,
+2a12:bec4:12a3:21d0::/60,VN,,Ho Chi Minh City,
+2a12:bec4:12a3:21e0::/60,AF,AF-BDS,Badakhshan,
+2a12:bec4:12a3:21f0::/60,UM,,Wake Island,
+2a12:bec4:12a3:2200::/60,UM,,Navassa Island,
+2a12:bec4:12a3:2210::/60,KM,,Moroni,
+2a12:bec4:12a3:2220::/60,CY,,Limassol,
+2a12:bec4:12a3:2230::/60,EG,,Luxor,
+2a12:bec4:12a3:2240::/60,IQ,,Karbala,
+2a12:bec4:12a3:2250::/606,IR,,Arak,
+2a12:bec4:12a3:2260::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2270::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2280::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2290::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22a0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22b0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22c0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22d0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22e0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:22f0::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2300::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2310::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2320::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2330::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2340::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2350::/60,RU,RU-MOW,Moscow,
+2a12:bec4:12a3:2360::/60,RU,RU-SPE,Saint Petersburg,
+2a12:bec4:12a3:2370::/60,RU,RU-SPE,Saint Petersburg,
+2a12:bec4:12a3:2380::/60,RU,RU-SPE,Saint Petersburg,
+2a12:bec4:12a3:2390::/60,RU,RU-SPE,Saint Petersburg,
+2a12:bec4:12a3:23a0::/60,RU,RU-SPE,Saint Petersburg,
+2a12:bec4:12a3:23b0::/60,RU,,Kaliningrad,
+2a12:bec4:12a3:23c0::/60,RU,,Kaliningrad,
+2a12:bec4:12a3:23d0::/60,RU,,Kaliningrad,
+2a12:bec4:12a3:23e0::/60,RU,RU-NVS,Novosibirsk,
+2a12:bec4:12a3:23f0::/60,RU,RU-NVS,Novosibirsk,
+2a12:bec4:12a3:2400::/60,RU,RU-NVS,Novosibirsk,
+2a12:bec4:12a3:2410::/60,RU,,Omsk,
+2a12:bec4:12a3:2420::/60,RU,,Omsk,
+2a12:bec4:12a3:2430::/60,RU,RU-TA,Kazan,
+2a12:bec4:12a3:2440::/60,RU,,Norilsk,
+2a12:bec4:12a3:2450::/60,RU,,Norilsk,
+2a12:bec4:12a3:2460::/60,RU,,Norilsk,
+2a12:bec4:12a3:2470::/60,RU,,Norilsk,
+2a12:bec4:12a3:2480::/60,RU,,Norilsk,
+2a12:bec4:12a3:2490::/60,RU,,Norilsk,
+2a12:bec4:12a3:24a0::/60,RU,,Norilsk,
+2a12:bec4:12a3:24b0::/60,RU,,Norilsk,
+2a12:bec4:12a3:24c0::/60,RU,,Norilsk,
+2a12:bec4:12a3:24d0::/60,RU,,Norilsk,
+2a12:bec4:12a3:24e0::/60,RU,RU-BA,Ufa,
+2a12:bec4:12a3:24f0::/60,RU,,Chita,
+2a12:bec4:12a3:2500::/60,RU,,Yuzhno Sakhalinsk,
+2a12:bec4:12a3:2510::/60,RU,,Irkutsk,
+2a12:bec4:12a3:2520::/60,RU,,Vladivostok,
+2a12:bec4:12a3:2530::/60,RU,,Ekaterinburg,
+2a12:bec4:12a3:2540::/60,RU,,Samara,
+2a12:bec4:12a3:2550::/60,RU,,Petropavlovsk Kamchatski,
+2a12:bec4:12a3:2560::/60,RU,RU-YAR,Volga,
+2a12:bec4:12a3:2570::/60,KR,,Seoul,
+2a12:bec4:12a3:2580::/60,KR,,Busan,
+2a12:bec4:12a3:2590::/60,KR,,Incheon,
+2a12:bec4:12a3:25a0::/60,KR,,Daegu,
+2a12:bec4:12a3:25b0::/60,KR,,Daejeon,
+2a12:bec4:12a3:25c0::/60,KR,,Gwangju,
+2a12:bec4:12a3:25d0::/60,CN,,Shanghai,
+2a12:bec4:12a3:25e0::/60,CN,,Beijing,
+2a12:bec4:12a3:25f0::/60,CN,,Guangzhou,
+2a12:bec4:12a3:2600::/60,CN,,Shenzhen,
+2a12:bec4:12a3:2610::/60,AE,,Dubai,
+2a12:bec4:12a3:2620::/60,KN,,Basseterre,
+2a12:bec4:12a3:2630::/60,PT,,Lisbon,
+2a12:bec4:12a3:2640::/60,PL,,Warsaw,
+2a12:bec4:12a3:2650::/60,PS,,East Jerusalem,
+2a12:bec4:12a3:2660::/60,ID,,Jakarta,
+2a12:bec4:12a3:2670::/60,ML,,Bamako,
+2a12:bec4:12a3:2680::/60,MT,,Valletta,
+2a12:bec4:12a3:2690::/60,MH,,Majuro,
+2a12:bec4:12a3:26a0::/60,NF,,Kingston,
+2a12:bec4:12a3:26b0::/60,VA,,,
+2a12:bec4:12a3:26c0::/60,TF,,Le Gabode,
+2a12:bec4:12a3:26d0::/60,PF,,Papeete,
+2a12:bec4:12a3:26e0::/60,PF,,Bora Bora,
+2a12:bec4:12a3:26f0::/60,GF,,Cayenne,
+2a12:bec4:12a3:2700::/60,CL,,Santiago,
+2a12:bec4:12a3:2710::/60,UA,,Kyiv,
+2a12:bec4:12a3:2720::/60,CV,,Praia,
+2a12:bec4:12a3:2730::/60,HU,,Budapest,
+2a12:bec4:12a3:2740::/60,VI,,Frederiksted,
+2a12:bec4:12a3:2750::/60,VI,,Cruz Bay,
+2a12:bec4:12a3:2760::/60,RU,,Zlatoust,
+2a12:bec4:12a3:2770::/60,RU,,Armavir,
+2a12:bec4:12a3:2780::/60,RU,,Khasavyurt,
+2a12:bec4:12a3:2790::/60,RU,,Kislovodsk,
+2a12:bec4:12a3:27a0::/60,RU,,Nevinnomyssk,
+2a12:bec4:12a3:27b0::/60,RU,,Novocheboksarsk,
+2a12:bec4:12a3:27c0::/60,RU,,Derbent,
+2a12:bec4:12a3:27d0::/60,RU,,Bodaybo,
+2a12:bec4:12a3:27e0::/60,RU,,Bogorodsk,
+2a12:bec4:12a3:27f0::/60,RU,,Mozhaysk,
+2a12:bec4:12a3:2800::/60,RU,,Buguruslan,
+2a12:bec4:12a3:2810::/60,RU,,Birsk,
+2a12:bec4:12a3:2820::/60,RU,,Kirovsk,
+2a12:bec4:12a3:2830::/60,RU,,Krasnouralsk,
+2a12:bec4:12a3:2840::/60,RU,,Yuryev-Polsky,
+2a12:bec4:12a3:2850::/60,RU,,Svetlograd,
+2a12:bec4:12a3:2860::/60,RU,,Ozyorsk,
+2a12:bec4:12a3:2870::/60,RU,,Zelenogorsk,
+2a12:bec4:12a3:2880::/60,RU,,Krasnouralsk,
+2a12:bec4:12a3:2890::/60,RU,,Volzhsk,
+2a12:bec4:12a3:28a0::/60,RU,,Divnogorsk,
+2a12:bec4:12a3:28b0::/60,RU,,Kaliningrad,
+2a12:bec4:12a3:28c0::/60,RU,,Naberezhnye Chelny,
+2a12:bec4:12a3:28d0::/60,RU,,Kirov,
+2a12:bec4:12a3:28e0::/60,RU,,Tolyatti,
+2a12:bec4:12a3:28f0::/60,RU,,Krasnodar,
+2a12:bec4:12a3:2900::/60,GB,ENG,Brent Pelham,
+2a12:bec4:12a3:2910::/60,GB,ENG,St Albans,
+2a12:bec4:12a3:2920::/60,GB,ENG,Alton,
+2a12:bec4:12a3:2930::/60,GB,ENG,Leeds,
+2a12:bec4:12a3:2940::/60,GB,ENG,Sheffield,
+2a12:bec4:12a3:2950::/60,GB,ENG,Denmead,
+2a12:bec4:12a3:2960::/60,GB,ENG,Burbage,
+2a12:bec4:12a3:2970::/60,GB,ENG,Cardiff,
+2a12:bec4:12a3:2980::/60,GB,ENG,Bristol,
+2a12:bec4:12a3:2990::/60,GB,ENG,Liverpool,
+2a12:bec4:12a3:29a0::/60,GB,NIR,Belfast,
+2a12:bec4:12a3:29b0::/60,GB,SCT,Glasgow,
+2a12:bec4:12a3:29c0::/60,GB,SCT,Edinburgh,
+2a12:bec4:12a3:29d0::/60,GB,ENG,Coventry,
+2a12:bec4:12a3:29e0::/60,GB,ENG,Coventry,
+2a12:bec4:12a3:29f0::/60,GB,ENG,Wigan,
+2a12:bec4:12a3:2a00::/60,GB,ENG,Wolverhampton,
+2a12:bec4:12a3:2a10::/60,GB,ENG,Sutton Coldfield,
+2a12:bec4:12a3:2a20::/60,GB,ENG,Grimsby,
+2a12:bec4:12a3:2a30::/60,GB,ENG,Letchworth,
+2a12:bec4:12a3:2a40::/60,GB,ENG,Bexhill,
+2a12:bec4:12a3:2a50::/60,GB,ENG,Bampton,
+2a12:bec4:12a3:2a60::/60,US,US-NV,North Las Vegas,
+2a12:bec4:12a3:2a70::/60,US,US-UT,West Valley City,
+2a12:bec4:12a3:2a80::/60,US,US-WI,Madison,
+2a12:bec4:12a3:2a90::/60,US,US-WY,Rock Springs,
+2a12:bec4:12a3:2aa0::/60,US,US-NC,Durham,
+2a12:bec4:12a3:2ab0::/60,US,US-MO,Independence,
+2a12:bec4:12a3:2ac0::/60,US,US-ME,Bangor,
+2a12:bec4:12a3:2ad0::/60,US,US-MS,Gulfport,
+2a12:bec4:12a3:2ae0::/60,US,US-HI,Honolulu,
+2a12:bec4:12a3:2af0::/60,US,US-AR,Jonesboro,
+2a12:bec4:12a3:2b00::/60,US,US-AZ,Glendale,
+2a12:bec4:12a3:2b10::/60,US,US-AL,Tuscaloosa,
+2a12:bec4:12a3:2b20::/60,US,US-CT,Hartford,
+2a12:bec4:12a3:2b30::/60,US,US-CA,Sacramento,
+2a12:bec4:12a3:2b40::/60,US,US-AK,Anchorage,
+2a12:bec4:12a3:2b50::/60,US,US-MO,Kansas City,
+2a12:bec4:12a3:2b60::/60,JP,,Onomichi,
+2a12:bec4:12a3:2b70::/60,JP,,Komatsushima,
+2a12:bec4:12a3:2b80::/60,JP,,Kitakyushu,
+2a12:bec4:12a3:2b90::/60,JP,,Hiroshima,
+2a12:bec4:12a3:2ba0::/60,JP,,Iizuka,
+2a12:bec4:12a3:2bb0::/60,JP,,Yanagawa,
+2a12:bec4:12a3:2bc0::/60,JP,,Akashi,
+2a12:bec4:12a3:2bd0::/60,JP,,Amagasaki,
+2a12:bec4:12a3:2be0::/60,JP,,Ukiha,
+2a12:bec4:12a3:2bf0::/60,JP,,Higashihiroshima,
+2a12:bec4:12a3:2c00::/60,US,US-AK,Chicken,
+2a12:bec4:12a3:2c10::/60,US,US-CA,Weed,
+2a12:bec4:12a3:2c20::/60,GB,GB-WLS,Llanfairpwllgwyngyll,
+2a12:bec4:12a3:2c30::/60,US,US-OK,Hooker,
+2a12:bec4:12a3:2c40::/60,US,US-SD,Gayville,
+2a12:bec4:12a3:2c50::/60,US,US-MI,Gaylord,
